@@ -26,5 +26,5 @@
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
+* Set up two separate Domain Servers from Scratch (Woods.com and NMG Server)
+* Created users and placed them in the correct OU and Security Groups
